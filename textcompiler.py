@@ -1,5 +1,5 @@
 import sys
-
+#generate a list of files by inputting in command prompt:dir /b > filenames.txt
 allFiles = sys.argv
 filePosition = 1
 fileData = []
